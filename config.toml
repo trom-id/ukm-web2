@@ -1,5 +1,5 @@
 title = "Airspace for Hugo"
-baseURL = "https://www.example.com"
+baseURL = "https://ukm-web2.netlify.com"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
